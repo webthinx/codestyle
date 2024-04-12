@@ -1,0 +1,19 @@
+{
+  "name": "webthinx/codestyle",
+  "description": "Webthinx PHPCS coding standard.",
+  "homepage": "https://github.com/webthinx/",
+  "type": "library",
+  "license": ["MIT"],
+  "authors": [
+    {
+      "name": "Webthinx",
+      "homepage": "https://www.webthinx.com",
+      "role": "lead"
+    }
+  ],
+  "require": {
+    "php": ">=8.3",
+		"squizlabs/php_codesniffer": "^3.9",
+		"slevomat/coding-standard": "^8.15"
+  }
+}
