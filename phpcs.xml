@@ -236,12 +236,10 @@
                 <element value="properties"/>
                 <element value="constructor"/>
                 <element value="destructor"/>
-                <element value="public static methods"/>
-                <element value="public methods"/>
-                <element value="protected static methods"/>
-                <element value="protected methods"/>
-                <element value="private static methods"/>
-                <element value="private methods"/>
+                <element value="static constructors"/>
+                <element value="all public methods"/>
+                <element value="all protected methods"/>
+                <element value="all private methods"/>
                 <element value="magic methods"/>
             </property>
         </properties>
